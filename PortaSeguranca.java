@@ -19,7 +19,7 @@ public class PortaSeguranca{
             System.out.println("Porta aberta");
             System.out.println("Câmera registrou entrada");
         }else{
-            System.out.println("\nSenha incorreta");
+            System.out.println("\n Senha incorreta");
             System.out.println("Foto do invasor salva");
             System.out.println("Segurança avisada");
         }
